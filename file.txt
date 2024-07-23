@@ -1,3 +1,7 @@
 scenario: 1 book a train ticket
 
+<<<<<<< HEAD
 scenario: 2 book a train ticket
+=======
+scenario: 3 cancel the train ticket
+>>>>>>> subproject
